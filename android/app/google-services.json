@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "460011797637",
+    "project_id": "blrber",
+    "storage_bucket": "blrber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460011797637:android:42334d2b43325f8e56bdec",
+        "android_client_info": {
+          "package_name": "com.blrber.blrber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460011797637-c1p8scv1dqt5sve706mkd0c62aevhcar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blrber.blrber",
+            "certificate_hash": "0f28a6302330a3f8e7ab0265400e385a0df83424"
+          }
+        },
+        {
+          "client_id": "460011797637-cbtp0244e6gno09d55g42uta7u2bt81b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blrber.blrber",
+            "certificate_hash": "858bb242cd491a38deea378f86c19bd1fea164d6"
+          }
+        },
+        {
+          "client_id": "460011797637-qg3aqd2ri7f2ae3bre0kujiehkcotkch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blrber.blrber",
+            "certificate_hash": "0121ddbfe95fe3e3a27b4ae5115e193264a92d18"
+          }
+        },
+        {
+          "client_id": "460011797637-t7kghvib8ig0l3ri6k4r0b8j59p4uif2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5IcASFi5TlOxhD9-v9LzoELbhIt5ANU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460011797637-t7kghvib8ig0l3ri6k4r0b8j59p4uif2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

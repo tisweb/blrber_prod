@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>460011797637-96p3ufu332g1r36lej8crq5nengbudc1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.460011797637-96p3ufu332g1r36lej8crq5nengbudc1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>460011797637-c1p8scv1dqt5sve706mkd0c62aevhcar.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAVfnB0da2YgoZgwwPusv5Vhc4xaQZIVTo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>460011797637</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.blrber.blrber</string>
+	<key>PROJECT_ID</key>
+	<string>blrber</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blrber.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:460011797637:ios:9d39309c4efe97d956bdec</string>
+</dict>
+</plist>

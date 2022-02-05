@@ -1,0 +1,6 @@
+Vehicle,Cars,NA,NA,Exterior
+Vehicle,Motorcycles,NA,NA,Exterior
+Properties,For Sale: Houses,NA,NA,Exterior
+Electronics,Mobilephones,NA,NA,Exterior
+Electronics,Laptops,NA,NA,Exterior
+Vehicle,Cars,NA,NA,Interior
